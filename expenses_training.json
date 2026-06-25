@@ -1,0 +1,338 @@
+[
+  {
+    "id": 1764951774879,
+    "description": "Lunch at pizza restaurant",
+    "amount": 350,
+    "category": "Food",
+    "date": "12/5/2025"
+  },
+  {
+    "id": 1765288238336,
+    "description": "Grocery shopping at supermarket",
+    "amount": 2500,
+    "category": "Food",
+    "date": "12/9/2025"
+  },
+  {
+    "id": 1768234731421,
+    "description": "Zomato food delivery",
+    "amount": 400,
+    "category": "Food",
+    "date": "12/10/2025"
+  },
+  {
+    "id": 1768234731422,
+    "description": "Coffee at cafe",
+    "amount": 150,
+    "category": "Food",
+    "date": "12/11/2025"
+  },
+  {
+    "id": 1768234731423,
+    "description": "Breakfast at hotel",
+    "amount": 300,
+    "category": "Food",
+    "date": "12/11/2025"
+  },
+  {
+    "id": 1768234731424,
+    "description": "Dinner reservation",
+    "amount": 1500,
+    "category": "Food",
+    "date": "12/12/2025"
+  },
+  {
+    "id": 1768234731425,
+    "description": "Swiggy food delivery",
+    "amount": 500,
+    "category": "Food",
+    "date": "12/12/2025"
+  },
+  {
+    "id": 1768234731426,
+    "description": "Restaurant meal",
+    "amount": 600,
+    "category": "Food",
+    "date": "12/12/2025"
+  },
+  {
+    "id": 1768234731427,
+    "description": "Doctor consultation",
+    "amount": 800,
+    "category": "Health",
+    "date": "12/11/2025"
+  },
+  {
+    "id": 1768234731428,
+    "description": "Medicine pharmacy",
+    "amount": 450,
+    "category": "Health",
+    "date": "12/12/2025"
+  },
+  {
+    "id": 1768234731429,
+    "description": "Hospital checkup",
+    "amount": 2000,
+    "category": "Health",
+    "date": "12/12/2025"
+  },
+  {
+    "id": 1768234731430,
+    "description": "Dental treatment",
+    "amount": 3000,
+    "category": "Health",
+    "date": "12/12/2025"
+  },
+  {
+    "id": 1768234731431,
+    "description": "Fitness gym membership",
+    "amount": 500,
+    "category": "Health",
+    "date": "12/13/2025"
+  },
+  {
+    "id": 1768234731432,
+    "description": "Health clinic visit",
+    "amount": 700,
+    "category": "Health",
+    "date": "12/13/2025"
+  },
+  {
+    "id": 1768234731433,
+    "description": "Yoga classes subscription",
+    "amount": 1000,
+    "category": "Health",
+    "date": "12/13/2025"
+  },
+  {
+    "id": 1768234731434,
+    "description": "Vaccination appointment",
+    "amount": 500,
+    "category": "Health",
+    "date": "12/14/2025"
+  },
+  {
+    "id": 1768234731435,
+    "description": "Movie tickets cinema",
+    "amount": 600,
+    "category": "Entertainment",
+    "date": "12/11/2025"
+  },
+  {
+    "id": 1768234731436,
+    "description": "Concert show tickets",
+    "amount": 1200,
+    "category": "Entertainment",
+    "date": "12/12/2025"
+  },
+  {
+    "id": 1768234731437,
+    "description": "Gaming subscription",
+    "amount": 999,
+    "category": "Entertainment",
+    "date": "12/13/2025"
+  },
+  {
+    "id": 1768234731438,
+    "description": "Sports event ticket",
+    "amount": 1500,
+    "category": "Entertainment",
+    "date": "12/13/2025"
+  },
+  {
+    "id": 1768234731439,
+    "description": "Netflix subscription",
+    "amount": 499,
+    "category": "Entertainment",
+    "date": "12/13/2025"
+  },
+  {
+    "id": 1768234731440,
+    "description": "Book purchase online",
+    "amount": 350,
+    "category": "Entertainment",
+    "date": "12/14/2025"
+  },
+  {
+    "id": 1768234731441,
+    "description": "Movie streaming service",
+    "amount": 299,
+    "category": "Entertainment",
+    "date": "12/14/2025"
+  },
+  {
+    "id": 1768234731442,
+    "description": "Theater play tickets",
+    "amount": 800,
+    "category": "Entertainment",
+    "date": "12/14/2025"
+  },
+  {
+    "id": 1768234731443,
+    "description": "Uber ride to office",
+    "amount": 250,
+    "category": "Transport",
+    "date": "12/11/2025"
+  },
+  {
+    "id": 1768234731444,
+    "description": "Taxi to airport",
+    "amount": 800,
+    "category": "Transport",
+    "date": "12/12/2025"
+  },
+  {
+    "id": 1768234731445,
+    "description": "Petrol car refuel",
+    "amount": 2000,
+    "category": "Transport",
+    "date": "12/12/2025"
+  },
+  {
+    "id": 1768234731446,
+    "description": "Bus ticket travel",
+    "amount": 100,
+    "category": "Transport",
+    "date": "12/13/2025"
+  },
+  {
+    "id": 1768234731447,
+    "description": "Flight booking airlines",
+    "amount": 5000,
+    "category": "Transport",
+    "date": "12/13/2025"
+  },
+  {
+    "id": 1768234731448,
+    "description": "Train ticket railway",
+    "amount": 1500,
+    "category": "Transport",
+    "date": "12/14/2025"
+  },
+  {
+    "id": 1768234731449,
+    "description": "Auto rickshaw ride",
+    "amount": 150,
+    "category": "Transport",
+    "date": "12/14/2025"
+  },
+  {
+    "id": 1768234731450,
+    "description": "Bike rental",
+    "amount": 400,
+    "category": "Transport",
+    "date": "12/14/2025"
+  },
+  {
+    "id": 1768234731451,
+    "description": "Electricity bill payment",
+    "amount": 1200,
+    "category": "Utilities",
+    "date": "12/11/2025"
+  },
+  {
+    "id": 1768234731452,
+    "description": "Water bill monthly",
+    "amount": 400,
+    "category": "Utilities",
+    "date": "12/12/2025"
+  },
+  {
+    "id": 1768234731453,
+    "description": "Internet bill broadband",
+    "amount": 800,
+    "category": "Utilities",
+    "date": "12/12/2025"
+  },
+  {
+    "id": 1768234731454,
+    "description": "Gas bill heating",
+    "amount": 600,
+    "category": "Utilities",
+    "date": "12/13/2025"
+  },
+  {
+    "id": 1768234731455,
+    "description": "Mobile phone bill",
+    "amount": 500,
+    "category": "Utilities",
+    "date": "12/13/2025"
+  },
+  {
+    "id": 1768234731456,
+    "description": "Rent house payment",
+    "amount": 15000,
+    "category": "Utilities",
+    "date": "12/14/2025"
+  },
+  {
+    "id": 1768234731457,
+    "description": "Insurance payment",
+    "amount": 2000,
+    "category": "Utilities",
+    "date": "12/14/2025"
+  },
+  {
+    "id": 1768234731458,
+    "description": "Property tax",
+    "amount": 5000,
+    "category": "Utilities",
+    "date": "12/14/2025"
+  },
+  {
+    "id": 1768234731459,
+    "description": "Clothing shopping mall",
+    "amount": 2000,
+    "category": "Shopping",
+    "date": "12/11/2025"
+  },
+  {
+    "id": 1768234731460,
+    "description": "Shoes purchase footwear",
+    "amount": 1500,
+    "category": "Shopping",
+    "date": "12/12/2025"
+  },
+  {
+    "id": 1768234731461,
+    "description": "Electronics gadget buy",
+    "amount": 5000,
+    "category": "Shopping",
+    "date": "12/12/2025"
+  },
+  {
+    "id": 1768234731462,
+    "description": "Furniture home decor",
+    "amount": 3000,
+    "category": "Shopping",
+    "date": "12/13/2025"
+  },
+  {
+    "id": 1768234731463,
+    "description": "Jewelry accessories shop",
+    "amount": 8000,
+    "category": "Shopping",
+    "date": "12/13/2025"
+  },
+  {
+    "id": 1768234731464,
+    "description": "Online shopping Amazon",
+    "amount": 1200,
+    "category": "Shopping",
+    "date": "12/14/2025"
+  },
+  {
+    "id": 1768234731465,
+    "description": "Mobile phone purchase",
+    "amount": 20000,
+    "category": "Shopping",
+    "date": "12/14/2025"
+  },
+  {
+    "id": 1768234731466,
+    "description": "Laptop computer buy",
+    "amount": 50000,
+    "category": "Shopping",
+    "date": "12/14/2025"
+  }
+]

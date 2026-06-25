@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1764951774879,
+    "description": "1000",
+    "amount": 500,
+    "category": "Food",
+    "date": "12/5/2025"
+  },
+  {
+    "id": 1765288238336,
+    "description": "jwellery",
+    "amount": 400,
+    "category": "Utilities",
+    "date": "12/9/2025"
+  },
+  {
+    "id": 1768234731421,
+    "description": "100 rupees in zomato",
+    "amount": 400,
+    "category": "Food",
+    "date": "1/12/2026"
+  },
+  {
+    "id": 1768234920796,
+    "description": "200 rupess in swiggi",
+    "amount": 500,
+    "category": "Utilities",
+    "date": "1/12/2026"
+  },
+  {
+    "id": 1768235156560,
+    "description": "amazon",
+    "amount": 400,
+    "category": "Other",
+    "date": "1/12/2026"
+  },
+  {
+    "id": 1768235184826,
+    "description": "pizza",
+    "amount": 400,
+    "category": "Other",
+    "date": "1/12/2026"
+  }
+]

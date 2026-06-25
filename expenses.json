@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1764951774879,
+    "description": "Lunch at pizza restaurant",
+    "amount": 350,
+    "category": "Food",
+    "date": "12/5/2025"
+  },
+  {
+    "id": 1765288238336,
+    "description": "Grocery shopping at supermarket",
+    "amount": 2500,
+    "category": "Food",
+    "date": "12/9/2025"
+  },
+  {
+    "id": 1768234731421,
+    "description": "Zomato food delivery",
+    "amount": 400,
+    "category": "Food",
+    "date": "12/10/2025"
+  },
+  {
+    "id": 1768234731422,
+    "description": "Coffee at cafe",
+    "amount": 150,
+    "category": "Food",
+    "date": "12/11/2025"
+  },
+  {
+    "id": 1768234731423,
+    "description": "Breakfast at hotel",
+    "amount": 300,
+    "category": "Food",
+    "date": "12/11/2025"
+  },
+  {
+    "id": 1768234731424,
+    "description": "Dinner reservation",
+    "amount": 1500,
+    "category": "Food",
+    "date": "12/12/2025"
+  },
+  {
+    "id": 1768234731425,
+    "description": "Swiggy food delivery",
+    "amount": 500,
+    "category": "Food",
+    "date": "12/12/2025"
+  },
+  {
+    "id": 1768234731426,
+    "description": "Restaurant meal",
+    "amount": 600,
+    "category": "Food",
+    "date": "12/12/2025"
+  },
+  {
+    "id": 1768234731427,
+    "description": "Doctor consultation",
+    "amount": 800,
+    "category": "Health",
+    "date": "12/11/2025"
+  },
+  {
+    "id": 1768236755650,
+    "description": "coffee",
+    "amount": 500,
+    "category": "Food",
+    "date": "1/12/2026"
+  },
+  {
+    "id": 1768239458162,
+    "description": "tea",
+    "amount": 40,
+    "category": "Other",
+    "date": "1/12/2026"
+  },
+  {
+    "id": 1769696019339,
+    "description": "caramel",
+    "amount": 50,
+    "category": "Food",
+    "date": "1/29/2026"
+  },
+  {
+    "id": 1769696601323,
+    "description": "maSHROOM",
+    "amount": 60,
+    "category": "Food",
+    "date": "1/29/2026"
+  },
+  {
+    "id": 1769846898674,
+    "description": "pizza",
+    "amount": 350,
+    "category": "Other",
+    "date": "1/31/2026"
+  }
+]
